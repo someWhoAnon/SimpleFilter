@@ -1,6 +1,7 @@
 # SimpleFilter
 
 This class created for filtering values from sensors, basicly i use it in my Arduino projects
+![alt text](https://raw.githubusercontent.com/someWhoAnon/SimpleFilter/master/Filtering.png)
 
 # Usage
 
