@@ -18,6 +18,7 @@ Init your filter:
 someFilter.init(0.2, 0.01);
 
 And use it:
+
 float filteredValue;
 filteredValue = someFilter.doFilter(someValueToFilter);
 
